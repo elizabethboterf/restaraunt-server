@@ -10,7 +10,6 @@ This is an app designed to aide restaurants in managing and seating reservations
 
 ---
 ## Technologies
-/** 
  
  * PostgreSQL
  * ElephantSQL
